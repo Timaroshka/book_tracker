@@ -1,0 +1,25 @@
+body{
+	background-color: #ebeff5;
+}
+.marg{
+	margin-left: 30px;
+}
+
+#total-orders{
+	background-color: #4cb4c7;
+}
+
+
+#orders-delivered{
+	background-color: #7abecc;
+}
+
+#orders-pending{
+	background-color: #7CD1C0;
+}
+
+.alert_text{
+	font-size: large;
+	font-weight: 600;
+	color: black;
+}
